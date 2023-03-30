@@ -6,4 +6,14 @@
 
 </div>
 
+<div align="center">
+
+<h2 align="center">💜 contact me! 💜</h2>
+
+
+<a href="https://instagram.com/ju.____.hee?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instargram-B1B2FF?style=fla&logo=Instagram&logoColor=white&link=https://instagram.com/ju.____.hee?igshid=YmMyMTA2M2Y="/></a>
+<a href="mailto:eee6767@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat&logo=Naver&logoColor=white&link=mailto:eee6767@naver.com"/></a>
+
+</div>
+
 
